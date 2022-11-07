@@ -1,0 +1,60 @@
+
+body{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+img{
+
+    width: 400px;
+    height: 200px;
+
+}
+
+.separador{
+
+    border-color: black;
+    border: solid 1px;
+    padding: 10px;
+    text-align: left;
+
+}
+
+
+th{
+    
+
+    border: solid 1px;
+    padding: 10px;
+    background-color: grey;
+    color: white;
+    border-color: black;
+
+}
+
+#dosColumnas{
+
+    border-color: black;
+    border: solid 1px;
+    padding: 10px;
+    text-align: left;
+    background-color: lightgray;
+
+}
+
+
+table{
+
+    border-collapse: collapse;
+
+}
+
+#grandesExitos{
+
+    text-align: right;
+
+}
+
+
+
